@@ -2,5 +2,4 @@
   "version": 2,
   "name": "projeto-got",
   "builds": [{ "src": "app.js", "use": "@vercel/node" }],
-  "routes": [{ "src": "/app/routes", "dest": "/app.js" }]
 }

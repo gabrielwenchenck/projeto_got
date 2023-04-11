@@ -40,10 +40,10 @@ O uso do MongoDB como banco de dados NoSQL permite a flexibilidade na modelagem 
 
 ## Tecnologias Utilizadas
 ### O projeto foi desenvolvido utilizando as seguintes tecnologias:
-Node.js: Uma plataforma de desenvolvimento de aplicações JavaScript do lado do servidor.
-Express: Um framework de aplicativo web para Node.js, utilizado para criar rotas, gerenciar sessões e validar entradas de dados.
-EJS: Um mecanismo de visualização de template para Node.js, utilizado para renderizar as páginas HTML.
-MongoDB: Um banco de dados NoSQL, utilizado para armazenar as informações dos usuários, aldeões, moedas e pontos de habilidades.
-Consign: Um módulo para Node.js, utilizado para estruturar o projeto e carregar automaticamente rotas, modelos e controladores.
-Express-session: Um middleware de autenticação para Express, utilizado para gerenciar sessões de usuários e autenticação.
-Express-validator: Um middleware de validação de entradas de dados para Express, utilizado para validar as informações fornecidas pelos usuários.
+- Node.js: Uma plataforma de desenvolvimento de aplicações JavaScript do lado do servidor.
+- Express: Um framework de aplicativo web para Node.js, utilizado para criar rotas, gerenciar sessões e validar entradas de dados.
+- EJS: Um mecanismo de visualização de template para Node.js, utilizado para renderizar as páginas HTML.
+- MongoDB: Um banco de dados NoSQL, utilizado para armazenar as informações dos usuários, aldeões, moedas e pontos de habilidades.
+- Consign: Um módulo para Node.js, utilizado para estruturar o projeto e carregar automaticamente rotas, modelos e controladores.
+- Express-session: Um middleware de autenticação para Express, utilizado para gerenciar sessões de usuários e autenticação.
+- Express-validator: Um middleware de validação de entradas de dados para Express, utilizado para validar as informações fornecidas pelos usuários.

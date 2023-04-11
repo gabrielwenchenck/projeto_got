@@ -1,6 +1,10 @@
 var MongoModule = require("mongodb").MongoClient;
 
-const url = 'mongodb://giwenck:aI8alxniVprXdeGv@ac-27f9hky-shard-00-00.ovnicjk.mongodb.net:27017,ac-27f9hky-shard-00-01.ovnicjk.mongodb.net:27017,ac-27f9hky-shard-00-02.ovnicjk.mongodb.net:27017/?ssl=true&replicaSet=atlas-shlc4t-shard-0&authSource=admin&retryWrites=true&w=majority'
+var dotenv = require("dotenv");
+
+dotenv.config();
+
+const url = process.env.DB_HOST;
 const dbName = "got";
 
 mongodb: function dbConnection() {

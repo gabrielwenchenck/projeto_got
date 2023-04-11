@@ -2,6 +2,9 @@
 
 O projeto é um jogo baseado em Node.js, utilizando as tecnologias Express, EJS, MongoDB, Consign, Express-session, Express-validator, jQuery e Body-parser. O jogo é inspirado no universo de Game of Thrones e permite aos usuários criar uma conta, fazer login e autenticação, e participar de um jogo de estratégia onde o objetivo é administrar recursos, ações e pontos de habilidades para construir um império poderoso.
 
+## Link
+http://ec2-3-85-107-224.compute-1.amazonaws.com:8080/
+
 
 ## Funcionalidades do Projeto
 
